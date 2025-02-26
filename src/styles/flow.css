@@ -1,0 +1,26 @@
+.react-flow__node {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  background-color: white;
+  font-size: 14px;
+  transition: all 0.2s;
+}
+
+.react-flow__node:hover {
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  border-color: #aaa;
+}
+
+.react-flow__edge {
+  stroke-width: 2;
+}
+
+.react-flow__edge-path {
+  stroke: #555;
+}
+
+.react-flow__controls {
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  border-radius: 5px;
+}
