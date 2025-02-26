@@ -104,13 +104,13 @@ A React application for managing teams and users with interactive visualizations
 1. Clone the repository
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/azateser/dataFlowX-CaseStudy
 ```
 
 2. Navigate to project directory
 
 ```bash
-cd [project-directory]
+cd dataFlowX-CaseStudy
 ```
 
 3. Install dependencies
