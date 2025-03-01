@@ -4,6 +4,8 @@
 
 A React application for managing teams and users with interactive visualizations using React Flow and Recharts.
 
+Live Demo: [https://azateser.github.io/dataFlowX-CaseStudy/dist/](https://azateser.github.io/dataFlowX-CaseStudy/dist/)
+
 ## Case Requirements
 
 ### Core Features
